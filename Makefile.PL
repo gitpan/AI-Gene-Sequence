@@ -15,5 +15,5 @@ WriteMakefile(
     'PM'                => { 'AI/Gene/Sequence.pm'
 			     => '$(INST_LIBDIR)/AI/Gene/Sequence.pm',
 			     'AI/Gene/Simple.pm'
-			     => '${INST_LIBDIR}/AI/Gene/Simple.pm'},
+			     => '$(INST_LIBDIR)/AI/Gene/Simple.pm'},
 );

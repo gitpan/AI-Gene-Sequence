@@ -1,5 +1,9 @@
 Revision history for Perl extension AI::Gene::Sequence.
 
+0.21 Wed Jan 24 13:00:00 2001
+
+BUGFIXES: problem with Makefile.PL & nmake fixed
+
 0.20 Tue Jan 02 23:20:00 2001
 
 Changes   name changed to AI::Gene::*
