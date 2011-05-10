@@ -10,3 +10,4 @@ demo/music.pl
 t/tgene.t
 t/tsimp.t
 test.pl
+META.yml                                 Module meta-data (added by MakeMaker)
